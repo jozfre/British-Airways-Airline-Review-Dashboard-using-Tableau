@@ -7,6 +7,7 @@ This project analyzes customer reviews of British Airways using an Excel dataset
 <img width="1202" height="703" alt="British Airways Airline Review Tableau Dashboard" src="https://github.com/user-attachments/assets/137566d7-c249-4929-a9d9-762e9b1dd5eb" />
 
 
+
 🔑 Key Features
 
     Interactive Dashboard: Filters by traveler type, seat class, continent, and aircraft.
@@ -27,6 +28,9 @@ This project analyzes customer reviews of British Airways using an Excel dataset
 
     Data storytelling (turning raw feedback into actionable insights)
 
+<img width="1350" height="867" alt="Geospatial Visualization" src="https://github.com/user-attachments/assets/a34d997e-3c20-462f-a828-a742b78aaa52" />
+
+    
 🚀 Impact
 
 This project demonstrates how customer feedback can be transformed into structured insights that airlines can use to improve service quality, optimize fleet performance, and enhance passenger experience.
@@ -35,4 +39,7 @@ This project demonstrates how customer feedback can be transformed into structur
 
     Countires.csv & ba_reviews.csv – Raw dataset
 
-    <img width="1232" height="917" alt="Data Source British Airways Review" src="https://github.com/user-attachments/assets/531f3cce-3fa4-4a8f-8161-b4e5539164e0" />
+<img width="1232" height="917" alt="Data Source British Airways Review" src="https://github.com/user-attachments/assets/5098faa7-2a47-49cf-b832-bebd9820c4b6" />
+
+    
+
