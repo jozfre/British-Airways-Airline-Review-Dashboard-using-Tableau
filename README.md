@@ -30,6 +30,7 @@ This project analyzes customer reviews of British Airways using an Excel dataset
 
 <img width="1350" height="867" alt="Geospatial Visualization" src="https://github.com/user-attachments/assets/a34d997e-3c20-462f-a828-a742b78aaa52" />
 
+
     
 🚀 Impact
 
